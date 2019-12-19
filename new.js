@@ -1,0 +1,1 @@
+var objectName = new objectType([param1, param2,paramN]);
